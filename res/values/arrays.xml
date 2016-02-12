@@ -23,10 +23,7 @@
         <item>@string/pref_video_quality_entry_1080p</item>
         <item>@string/pref_video_quality_entry_720p</item>
         <item>@string/pref_video_quality_entry_480p</item>
-        <item>@string/pref_video_quality_entry_fwvga</item>
-        <item>@string/pref_video_quality_entry_wvga</item>
         <item>@string/pref_video_quality_entry_vga</item>
-        <item>@string/pref_video_quality_entry_wqvga</item>
         <item>@string/pref_video_quality_entry_cif</item>
         <item>@string/pref_video_quality_entry_qvga</item>
         <item>@string/pref_video_quality_entry_qcif</item>
@@ -37,10 +34,7 @@
         <item>1920x1080</item>
         <item>1280x720</item>
         <item>720x480</item>
-        <item>864x480</item>
-        <item>800x480</item>
         <item>640x480</item>
-        <item>400x240</item>
         <item>352x288</item>
         <item>320x240</item>
         <item>176x144</item>
@@ -206,7 +200,7 @@
          size to the first one in the list that is also supported by the
          driver -->
     <string-array name="pref_camera_picturesize_entryvalues" translatable="false">
-        <item>5344x4016</item>
+        <item>5344x4008</item>
         <item>4160x3120</item>
         <item>4000x3000</item>
         <item>3840x2160</item>
